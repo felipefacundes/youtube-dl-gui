@@ -32,7 +32,7 @@
     fakeroot alien -r youtube-dl-gui-1.0-1-any.pkg.tar.gz
 ```  
 
-<br><\br>
+<br></br>
 
 # Simple Youtube-dl Gui
 
@@ -68,7 +68,7 @@
     fakeroot alien -r youtube-dl-gui-1.0-1-any.pkg.tar.gz
 ```
 
-<br><\br>
+<br></br>
 
 ```
 ┏┓
